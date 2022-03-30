@@ -4,8 +4,8 @@
   <p>☕Alto consumidor de café❗❗🤯 <p>
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavo-del-%c3%a1ngel-61275b231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavo-del-%c3%a1ngel-61275b231/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/gus.over01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/gus.over01" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gustavo-del-%c3%a1ngel-61275b231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavo-del-%c3%a1ngel-61275b231/" height="30" width="40" /></a>
+<a href="https://fb.com/gus.over01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/gus.over01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages y herramientas:</h3>
