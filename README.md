@@ -1,6 +1,7 @@
 <h2 align="center">Hi, I'm Gustavo D. Ángel :rocket:</h2>
 
-<h3 align="center"> Computer Science Student in UPIICSA IPN:dragon: </h3>
+<h3 align="center"> Computer Science and Engineering Student in UPIICSA IPN:dragon:</h3>
+  <h3 align="center">ORACLE Student ☕</h3>
   <p>:sparkling_heart: In love to computers:sparkles::sparkles::sparkles: </p>
   <p>☕ I love learning new tools each day! So never stop learning:green_heart: </p>
   
