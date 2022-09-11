@@ -3,7 +3,7 @@
 <h3 align="center"> Computer Science and Engineering Student in UPIICSA IPN:dragon:</h3>
   <h3 align="center">ORACLE Student ☕</h3>
   <p>:sparkling_heart: In love to computers:sparkles::sparkles::sparkles: </p>
-  <p>☕ I love learning new tools each day! So never stop learning:green_heart: </p>
+  <p>☕ I love learning new skills each day! So never stop learning:green_heart: </p>
   
 <h2 align="left">Connect with me: </h2>
 <p align="left">
